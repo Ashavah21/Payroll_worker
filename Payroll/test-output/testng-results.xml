@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73911" started-at="2021-05-09T11:38:00Z" finished-at="2021-05-09T11:39:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73911" started-at="2021-05-09T11:38:00Z" finished-at="2021-05-09T11:39:14Z">
+      <class name="com.qa.test.WorkerTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.test.WorkerTest@3bfdc050]" name="beforeTest" is-config="true" duration-ms="19715" started-at="2021-05-09T11:38:00Z" finished-at="2021-05-09T11:38:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyLogin()[pri:1, instance:com.qa.test.WorkerTest@3bfdc050]" name="verifyLogin" duration-ms="4051" started-at="2021-05-09T11:38:21Z" finished-at="2021-05-09T11:38:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="verifyWorkerDashboard()[pri:2, instance:com.qa.test.WorkerTest@3bfdc050]" name="verifyWorkerDashboard" duration-ms="5549" started-at="2021-05-09T11:38:25Z" finished-at="2021-05-09T11:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWorkerDashboard -->
+        <test-method status="PASS" signature="verifyWorkerSearch()[pri:3, instance:com.qa.test.WorkerTest@3bfdc050]" name="verifyWorkerSearch" duration-ms="4524" started-at="2021-05-09T11:38:30Z" finished-at="2021-05-09T11:38:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWorkerSearch -->
+        <test-method status="PASS" signature="verifyWorkerUpdate()[pri:4, instance:com.qa.test.WorkerTest@3bfdc050]" name="verifyWorkerUpdate" duration-ms="17033" started-at="2021-05-09T11:38:35Z" finished-at="2021-05-09T11:38:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWorkerUpdate -->
+        <test-method status="PASS" signature="verifyWorkerView()[pri:5, instance:com.qa.test.WorkerTest@3bfdc050]" name="verifyWorkerView" duration-ms="11926" started-at="2021-05-09T11:38:52Z" finished-at="2021-05-09T11:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWorkerView -->
+        <test-method status="PASS" signature="verifyWorkerDelete()[pri:6, instance:com.qa.test.WorkerTest@3bfdc050]" name="verifyWorkerDelete" duration-ms="10495" started-at="2021-05-09T11:39:04Z" finished-at="2021-05-09T11:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWorkerDelete -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qa.test.WorkerTest@3bfdc050]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-05-09T11:39:14Z" finished-at="2021-05-09T11:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.test.WorkerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
